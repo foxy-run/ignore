@@ -1,0 +1,10 @@
+# все файлы
+Thumbs.db
+# Еще 
+.DS_Store
+# еще
+/tmp
+# 4
+*.html_old
+# 5
+*.png_backup
